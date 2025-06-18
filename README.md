@@ -1,1 +1,1 @@
-# LMT2MoSeq-SRlab
+#MyLab-LMT2MoSeq
